@@ -1,0 +1,52 @@
+Death Causes,Deaths,Percentage%,"Rate per 100,000",World Rank/183,Cause Effect
+  Coronary Heart Disease,163171,29.38,271.69,15,NO
+  Liver Disease,68866,12.4,116.08,1,NO
+Stroke,59445,10.7,101.05,53,NO
+Alzheimers & Dementia,17957,3.23,36.09,29,NO
+Kidney Disease,18279,3.29,29.87,32,NO
+  Lung Disease,17245,3.11,28.7,60,NO
+  Influenza and Pneumonia,22109,3.98,28.16,90,YES
+  Liver Cancer,18009,3.24,27.37,4,NO
+  Diabetes Mellitus,17851,3.21,27.31,102,NO
+Breast Cancer,7394,1.33,20.61,38,NO
+Road Traffic Accidents,13475,2.43,16.17,98,NO
+Hypertension,6749,1.22,11.61,98,NO
+Congenital Anomalies,14438,2.6,10.55,31,NO
+Low Birth Weight,13636,2.46,9.35,73,NO
+Asthma,5823,1.05,8.79,57,NO
+Bladder Cancer,4732,0.85,7.78,2,NO
+Lymphomas,5167,0.93,7.78,20,NO
+Prostate Cancer,1639,0.3,7.72,153,NO
+Lung Cancers,5.049,0.91,7.59,114,NO
+Endocrine Disorders,4927,0.89,6.43,62,NO
+  Inflammatory/Heart,3673,0.66,5.79,82,NO
+Falls,4194,0.76,5.67,82,NO
+Other Neoplasms,3591,0.65,5.24,20,NO
+Ovary Cancer,1846,0.33,5.22,59,NO
+Leukemia Cancer,4045,0.73,5.19,22,NO
+  Violence,4620,0.83,5.13,92,YES
+Diarrhoeal diseases,4474,0.81,4.77,80,NO
+  Suicide,3799,0.68,4.42,152,NO
+Birth Trauma,6201,1.12,4.25,80,NO
+  Colon-Rectum Cancers,2849,0.51,4.23,151,NO
+Other Injuries,3667,0.66,4.09,151,YES
+  Pancreas Cancer,2523,0.45,3.82,87,NO
+  Parkinson's Disease,1722,0.31,3.33,36,NO
+Peptic Ulcer Disease,1743,0.31,2.49,104,NO
+  Stomach Cancer,1664,0.3,2.44,173,NO
+Fires,1955,0.35,2.18,72,YES
+Oesophagus Cancer,1381,0.25,2.16,106,NO
+Rheumatic Heart Disease,1443,0.26,2.09,89,NO
+Oral Cancer,1288,0.23,1.95,144,NO
+  Drownings,1831,0.33,1.87,128,NO
+Malnutrition,1119,0.2,1.42,94,NO
+Meningitis,1248,0.22,1.3,84,YES
+Uterin Cancer,415,0.07,1.23,144,NO
+  Cervical Cancer,377,0.07,1.06,179,NO
+  Encephalitis,1025,0.18,1.05,70,NO
+  Maternal Conditions,903,0.16,0.94,96,YES
+Hepatitis B,675,0.12,0.92,61,NO
+Schistosomiasis,574,0.1,0.85,45,NO
+  Epilepsy,642,0.12,0.68,170,NO
+  Appendicitis,414,0.07,0.56,87,NO
+COVID-19,18,3.17,308,78,YES
